@@ -1,4 +1,3 @@
-// app.js
 import { Pokemon } from './pokemon.js';
 import { createClickCounter, logs } from './game.js';
 
